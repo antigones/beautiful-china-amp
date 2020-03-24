@@ -31,6 +31,13 @@
       "title": "Photo by Sam Beasley on Unsplash",
       "url": "https://unsplash.com/",
       "image": "page3.jpg"
-    }
+    },
+	{
+      "type": "small",
+      "title": "Photo by Aaron Greenwood on Unsplash",
+      "url": "https://unsplash.com/",
+      "image": "page4.jpg"
+    },
+	
   ]
 }
