@@ -1,0 +1,36 @@
+{
+  "bookendVersion": "v1.0",
+  "shareProviders": [
+    "email",
+    "twitter",
+    "tumblr",
+    {
+      "provider": "facebook",
+      "app_id": "254325784911610"
+    }
+  ],
+  "components": [
+    {
+      "type": "heading",
+      "text": "Images"
+    },
+	{
+      "type": "small",
+      "title": "Photo by William Christen on Unsplash",
+      "url": "https://unsplash.com/",
+      "image": "cover.jpg"
+    },
+    {
+      "type": "small",
+      "title": "Photo by William Christen on Unsplash",
+      "url": "https://unsplash.com/",
+      "image": "page2.jpg"
+    },
+	{
+      "type": "small",
+      "title": "Photo by Sam Beasley on Unsplash",
+      "url": "https://unsplash.com/",
+      "image": "page3.jpg"
+    }
+  ]
+}
