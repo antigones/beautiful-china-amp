@@ -37,7 +37,15 @@
       "title": "Photo by Aaron Greenwood on Unsplash",
       "url": "https://unsplash.com/",
       "image": "page4.jpg"
+    },
+	{
+      "type": "small",
+      "title": "Photo by Gigi on Unsplash",
+      "url": "https://unsplash.com/",
+      "image": "page5.jpg"
     }
+	
+	
 	
   ]
 }
