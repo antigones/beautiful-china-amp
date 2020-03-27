@@ -14,7 +14,7 @@
       "type": "heading",
       "text": "Images"
     },
-	{
+		{
       "type": "small",
       "title": "Photo by William Christen on Unsplash",
       "url": "https://unsplash.com/",
@@ -26,23 +26,35 @@
       "url": "https://unsplash.com/",
       "image": "page2.jpg"
     },
-	{
+		{
       "type": "small",
       "title": "Photo by Sam Beasley on Unsplash",
       "url": "https://unsplash.com/",
       "image": "page3.jpg"
     },
-	{
+		{
       "type": "small",
       "title": "Photo by Aaron Greenwood on Unsplash",
       "url": "https://unsplash.com/",
       "image": "page4.jpg"
     },
-	{
+		{
       "type": "small",
       "title": "Photo by Gigi on Unsplash",
       "url": "https://unsplash.com/",
       "image": "page5.jpg"
+    },
+		{
+      "type": "small",
+      "title": "Photo by 五玄土 ORIENTO on Unsplash",
+      "url": "https://unsplash.com/",
+      "image": "page6.jpg"
+    },
+		{
+      "type": "small",
+      "title": "Photo by Chris Curry on Unsplash",
+      "url": "https://unsplash.com/",
+      "image": "page7.jpg"
     }
 	
 	
